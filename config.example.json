@@ -1,9 +1,9 @@
 {
-  "token": "**Discord Bot Token**",
+  "token": "**MTEyOTEyMzgyNzIxODEyNDkxMA.GIHB64.IByIU0uhxge0S1DiXmcBfrYDO3g1NRgil5fBQQ**",
   "prefix": "mc!",
-  "serverAddress": "**minecraft server address (ip/hostname)**",
+  "serverAddress": "**Minepiece.mc.gg**",
   "serverPort": "25565",
-  "serverName": "**Server Name**",
+  "serverName": "**MinePiece**",
   "updateInterval": "1min",
   "showPlayerSample": true,
   "debugMode": true,
